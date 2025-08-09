@@ -1,2 +1,1 @@
-# LayeredArchitecture
-Stratified Systematic Design for Modularized ResourcePooling and FaultTolerant Enterprise Topology featuring FaultTolerance capabilities
+.
